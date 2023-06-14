@@ -1,0 +1,125 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #333138;
+}
+.all{
+    display: flex;
+    margin-top: 50px;
+   
+}
+.right{
+    border: solid 1px black;
+    width: 300px;
+    height: 500px;
+    margin-left: 200px;
+    padding-left: 30px;
+    background:#000103;
+    border: none; 
+}
+.right video{
+    width: 300px;
+    height: 240px;
+}
+.right source{
+    padding-right: 120px;
+}
+.title {
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: #FFFFFA;
+}
+.allinput{
+    display: flex;
+}
+.allinput input{
+    width: 300px;
+    height: 25px;
+    border-radius: 8px;
+    border: none;
+}
+.each label {
+    color: #FFFFFA;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.whole{
+    margin-left: 50px;
+    color: #FFFFFA;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
+}
+.left{
+    border: solid 1px black;
+    width: 700px;
+    height: 500px;
+    padding-left: 100px;
+    border: none; 
+    background:#FF312E;
+}
+.call{
+    color:#FFFFFA;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.check{
+    margin-top: 30px;
+}
+.same{
+    color: #FFFFFA;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.butt input{
+    margin-top: 30px;
+    background:#515052;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+}
+.gode{
+    color: #FFFFFA;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.lemurs{
+    background: #1A5E63;
+}
+.other{
+    border: solid 1px black;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 200px;
+    padding-top: 40px;
+    background: #028090;
+    color: #00BFB2;
+    border: none;
+    border-radius: 8px;
+}
+.confirm{
+    margin-top: 20px;
+}
+.confirm input{
+    border-radius: 8px;
+    border:none;
+    width: 100px;
+    font-size: 15px;
+    background: #00BFB2;
+    width: 200px;
+    height: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.insert input{
+    width: 200px;
+    height: 20px;
+    border-radius: 8px;
+    border: none;
+}
+.insert label{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.music{
+    padding-left: 500px;
+    padding-top: 50px;
+}
